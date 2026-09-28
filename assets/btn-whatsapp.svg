@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="48" viewBox="0 0 136 48">
+<rect x=".75" y=".75" width="134.5" height="46.5" rx="4" fill="#0F2A44" stroke="#8FA9C2" stroke-width="1.5"/>
+<path d="M6 .75V6M.75 6H6M130 47.25V42M135.25 42H130" stroke="#EEF3F8" stroke-opacity=".5" fill="none"/>
+<text x="20" y="29" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="500" fill="#EEF3F8">WhatsApp</text><path d="M106 24H118M113 19L118 24L113 29" stroke="#EEF3F8" stroke-width="1.6" fill="none"/></svg>

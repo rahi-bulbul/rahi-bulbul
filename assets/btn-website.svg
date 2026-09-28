@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="48" viewBox="0 0 190 48">
+<rect x=".75" y=".75" width="188.5" height="46.5" rx="4" fill="#0F2A44" stroke="#8FA9C2" stroke-width="1.5"/>
+<path d="M6 .75V6M.75 6H6M184 47.25V42M189.25 42H184" stroke="#EEF3F8" stroke-opacity=".5" fill="none"/>
+<text x="20" y="29" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="500" fill="#EEF3F8">rahibulbul.com</text><path d="M160 24H172M167 19L172 24L167 29" stroke="#EEF3F8" stroke-width="1.6" fill="none"/></svg>

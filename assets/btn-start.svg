@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="199" height="48" viewBox="0 0 199 48">
+<rect x=".75" y=".75" width="197.5" height="46.5" rx="4" fill="#F2B84B" stroke="#F2B84B" stroke-width="1.5"/>
+<path d="M6 .75V6M.75 6H6M193 47.25V42M198.25 42H193" stroke="#0F2A44" stroke-opacity=".5" fill="none"/>
+<text x="20" y="29" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#0F2A44">Start a project</text><path d="M169 24H181M176 19L181 24L176 29" stroke="#0F2A44" stroke-width="1.6" fill="none"/></svg>
