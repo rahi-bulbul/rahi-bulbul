@@ -10,7 +10,7 @@
     <g transform="translate(25,85)">
       <svg width="16" height="16" viewBox="0 0 16 16" y="-12"><path fill="#F2B84B" d="M8 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6ZM0 7.25h4.5v1.5H0Zm11.5 0H16v1.5h-4.5Z"/></svg>
       <text x="25" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:14px;font-weight:600" fill="#8FA9C2">Commits (last year):</text>
-      <text x="230" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:14px;font-weight:700" fill="#EEF3F8">1</text>
+      <text x="230" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:14px;font-weight:700" fill="#EEF3F8">3</text>
     </g>
     <g transform="translate(25,110)">
       <svg width="16" height="16" viewBox="0 0 16 16" y="-12"><path fill="#F2B84B" d="M4 1.5a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-.75 4.4h1.5v4.2h-1.5ZM4 10.5a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-.75-.4V5.5H8.5V7L6 4.75 8.5 2.5V4h3.5v6.1Z"/></svg>
@@ -25,13 +25,13 @@
     <g transform="translate(25,160)">
       <svg width="16" height="16" viewBox="0 0 16 16" y="-12"><path fill="#F2B84B" d="M2 3h12v11H2Zm1.5 3v6.5h9V6ZM4.5 1h1.5v3H4.5Zm5.5 0h1.5v3H10Z"/></svg>
       <text x="25" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:14px;font-weight:600" fill="#8FA9C2">Contributions (last year):</text>
-      <text x="230" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:14px;font-weight:700" fill="#EEF3F8">2</text>
+      <text x="230" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:14px;font-weight:700" fill="#EEF3F8">4</text>
     </g>
   <g transform="translate(382,102.5)">
     <circle r="40" fill="none" stroke="#F2B84B" stroke-opacity="0.2" stroke-width="6"/>
     <circle r="40" fill="none" stroke="#F2B84B" stroke-width="6" stroke-linecap="round"
-      stroke-dasharray="251.32741228718345" stroke-dashoffset="250.82475746260909" transform="rotate(-90)"/>
-    <text text-anchor="middle" y="6" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:20px;font-weight:800" fill="#EEF3F8">2</text>
+      stroke-dasharray="251.32741228718345" stroke-dashoffset="250.32210263803472" transform="rotate(-90)"/>
+    <text text-anchor="middle" y="6" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:20px;font-weight:800" fill="#EEF3F8">4</text>
     <text text-anchor="middle" y="62" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:11px" fill="#8FA9C2">last 12 months</text>
   </g>
 </svg>
