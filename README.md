@@ -17,6 +17,5 @@
   <a href="https://www.rahibulbul.com/contact"><img src="./assets/btn-start.svg" alt="Start a project" height="48"></a>&nbsp;
   <a href="https://www.rahibulbul.com"><img src="./assets/btn-website.svg" alt="rahibulbul.com" height="48"></a>&nbsp;
   <a href="mailto:contact@rahibulbul.com"><img src="./assets/btn-email.svg" alt="Email" height="48"></a>&nbsp;
-  <a href="https://wa.me/rahibulbul"><img src="./assets/btn-whatsapp.svg" alt="WhatsApp" height="48"></a>&nbsp;
-  <a href="https://www.freelancer.com.bd/u/rahibulbulbd"><img src="./assets/btn-freelancer.svg" alt="Freelancer" height="48"></a>
+  <a href="https://wa.me/rahibulbul"><img src="./assets/btn-whatsapp.svg" alt="WhatsApp" height="48"></a>
 </p>
