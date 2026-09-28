@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195">
+  <rect x="0.5" y="0.5" rx="4.5" width="349" height="194" fill="#0F2A44" stroke="#8FA9C2" stroke-opacity="0.6"/>
+  <text x="25" y="35" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:18px;font-weight:600" fill="#EEF3F8">Top languages</text>
+  <clipPath id="b"><rect x="0" y="0" width="300" height="8" rx="4"/></clipPath>
+  <g transform="translate(25,55)" clip-path="url(#b)"><rect x="0" y="0" width="300" height="8" fill="#f1e05a"/></g>
+  <g transform="translate(25,78)"><g transform="translate(0,0)"><circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+      <text x="15" y="10" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:11px" fill="#8FA9C2">JavaScript 100.0%</text></g></g>
+</svg>
